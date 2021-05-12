@@ -1,0 +1,58 @@
+{
+  "content": [
+    {
+      "id": "1",
+      "channelId": "seinf",
+      "from": "kramer@akooda.co",
+      "content": "Those pretzels are making me thirsty"
+    },
+    {
+      "id": "2",
+      "channelId": "blues",
+      "from": "elwood@blues.com",
+      "content": "We are in a mission from god"
+    },
+    {
+      "id": "3",
+      "channelId": "blues",
+      "from": "jake@blues.com",
+      "content": "Four fried chicken and a coke"
+    },
+    {
+      "id": "4",
+      "channelId": "seinf",
+      "from": "george@akooda.co",
+      "content": "We are living in a society"
+    },
+    {
+      "id": "5",
+      "channelId": "ballad",
+      "from": "buster@struggs.com",
+      "content": "Let me tell you, buddy // There's a faster gun // Coming over yonder // When tomorrow comes // Let me tell you, buddy // And it won't be long // 'Til you find yourself singing // Your last cowboy song"
+    },
+    {
+      "id": "6",
+      "channelId": "memes",
+      "from": "farmer@akooda.co",
+      "content": "It ain't much, but it's honest work"
+    },
+    {
+      "id": "7",
+      "channelId": "general",
+      "from": "gla@generals.com",
+      "content": "Cannot we live in peace?"
+    },
+    {
+      "id": "8",
+      "channelId": "memes",
+      "from": "futurama@akooda.co",
+      "content": "Shut up and take my money!"
+    },
+    {
+      "id": "9",
+      "channelId": "seinf",
+      "from": "jerry@akooda.co",
+      "content": "Sometimes the road less traveled is less traveled for a reason"
+    }
+  ]
+}

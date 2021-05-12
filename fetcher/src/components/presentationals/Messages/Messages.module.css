@@ -1,0 +1,10 @@
+.Messages {
+    display: flex;
+    flex-wrap: wrap;  
+}
+
+@media(max-width: 620px) {
+    .Messages {
+        justify-content: center;
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "seinf": {
+    "name": "Seinfeld",
+    "membersAmount": 10,
+    "color": "#9966FF"
+  },
+  "blues": {
+    "name": "Blues Brothers",
+    "membersAmount": 6,
+    "color": "#6699FF"
+  },
+  "general": {
+    "name": "General",
+    "membersAmount": 8,
+    "color": "#FF0066"
+  },
+  "memes": {
+    "name": "Memes",
+    "membersAmount": 20,
+    "color": "#FFCC00"
+  },
+  "ballad": {
+    "name": "The Ballad of Buster Scruggs",
+    "membersAmount": 3,
+    "color": "#00CC66"
+  }
+}

@@ -1,0 +1,16 @@
+.IconButton {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0px 2px 3px 1px #eee;
+}
+
+.IconButton:active {
+    box-shadow: none;
+}
+
+.Icon {
+    width: 7px !important;
+}

@@ -1,0 +1,13 @@
+.Message {
+    width: 280px;
+    height: 210px;
+    margin: 0 10px 10px 0;
+    padding: 15px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
+.MessageField {
+    margin-bottom: 10px;
+}
